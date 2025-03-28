@@ -32,3 +32,6 @@ If you have any further questions or suggestions on how to improve my program, f
 ## Link to exercise
 
 - [Exercise1](./exercise1.md)
+  - First exercise to try some basic markdown
+- [Exercise2](./exercise2.md) 
+  - Explanation of some basic git commands
