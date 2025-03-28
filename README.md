@@ -29,6 +29,11 @@ java Encryption.java
 
 If you have any further questions or suggestions on how to improve my program, feel free to write to my e-mail adress: s54090@edu.campus02.at.
 
+## About me
+
+My name is Samuel Ulz and this is my GitHub [profile](https://github.com/Samy-Ulz)
+This is the the [University of Applied Sciences](https://www.campus02.at) where I study Business Software Development
+
 ## Link to exercise
 
 - [Exercise1](./exercise1.md)
