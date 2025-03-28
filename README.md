@@ -40,3 +40,5 @@ This is the the [University of Applied Sciences](https://www.campus02.at) where 
   - First exercise to try some basic markdown
 - [Exercise2](./exercise2.md) 
   - Explanation of some basic git commands
+- [Exercise2 Part 2](./exercise2_part2.md)
+  - Explanation of another GitHub project
