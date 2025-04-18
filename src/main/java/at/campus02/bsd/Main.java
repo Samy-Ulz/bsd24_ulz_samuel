@@ -1,8 +1,12 @@
 package at.campus02.bsd;
 
 import java.util.Scanner;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class Main {
+    private static final Logger logger = LogManager.getLogger();
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Calculator calc = new Calculator();
@@ -17,6 +21,9 @@ public class Main {
         System.out.println(number1 + " - " +  number2 + " = " + calc.subtract(number1, number2));
         System.out.println(number1 + " / " +  number2 + " = " + calc.divide(number1, number2));
         System.out.println(number1 + " * " +  number2 + " = " + calc.multiply(number1, number2));
+
+        logger.info("Info logger");
+        logger.error("Error logger");
 
         scanner.close();
     }
