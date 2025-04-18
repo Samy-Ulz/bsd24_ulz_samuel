@@ -33,7 +33,7 @@ I then initialized a Logger object in my Main class and set two logger entries i
 ![error log](resources/images/ex3_4.png)  
 
 To change that, I created a config file \"log4j2.xml\" to append every new log entry in a log file and to correctly output them on my console.  
-I copied the config file to \"log4j2.xml.template\" for reference in my remote repository and ran some tests to see the logs after creating a Logger object in my Calculator class as well and making debug loggers in every method (and an error logger dor divisions by zero).  
+I copied the config file to \"log4j2.xml.template\" for reference in my remote repository and ran some tests to see the logs after creating a Logger object in my Calculator class as well and making debug loggers in every method (and an error logger for divisions by zero).  
 My \”myapp.log\" file:  
 ![myapp.log file](resources/images/ex3_5.png)  
 
