@@ -1,6 +1,6 @@
 # Exercise 4
 
-Short text about the advantages of Unit tests
+Short text about the advantages of Unit tests and explanation of my unit tests
 
 ## Why Unit tests are useful
 
