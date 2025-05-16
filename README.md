@@ -45,3 +45,5 @@ This is the the [University of Applied Sciences](https://www.campus02.at) where 
 - [Exercise3](./exercise3.md) 
   - Documentation of Exercise 3
   - here is a [template](resources/log4j2.xml.template) for reference of which configs I used for log4j in my exercise.
+- [Exercise4](exercise4.md)
+  - Implementation of unit tests
