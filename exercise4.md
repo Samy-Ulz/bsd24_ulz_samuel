@@ -10,7 +10,7 @@ These tests are also a good opportunity to test your code for every possible edg
 
 ## JUnit testing for Calculator Class
 
-I wrote three tests for every method and grouped them into subclasses using \"@Nested\" to make my testing class cleaner.
+I wrote three tests for every method in my CalculatorTest class to test the functionality of my Calculator class.
 For every method I tested three cases:
  - calling method with two positive numbers
  - calling method with one positive and one negative number
