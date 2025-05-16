@@ -45,4 +45,12 @@ public class CalculatorTest {
         assertEquals(-2.5, calc.divide(5.0, -2.0));
         assertEquals(Double.POSITIVE_INFINITY, calc.divide(2.0, 0.0));
     }
+
+    @DisplayName("Tests for factorial() method")
+    @Test
+    void testFactorial() {
+        assertEquals(0.0, calc.factorial(-4.0));
+        assertEquals(1.0, calc.factorial(0));
+        assertEquals(120.0, calc.factorial(5));
+    }
 }
