@@ -34,6 +34,12 @@ public class Calculator {
     }
 
     public double factorial(double number) {
-        return 0;
+        if (number < 0) {
+            return 0;
+        } else if (number == 0) {
+            return 1;
+        } else {
+            return number * factorial(number - 1);
+        }
     }
 }
