@@ -32,4 +32,8 @@ public class Calculator {
         logger.debug("Multiplication with " + number1 + " and " + number2);
         return result;
     }
+
+    public double factorial(double number) {
+        return 0;
+    }
 }
